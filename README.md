@@ -61,6 +61,3 @@ CRUD concepts
 
 This project is open-source and free to use for learning and educational purposes.
 
-🐞 GitHub Issues (Recommended)
-
-Below are ready-to-use GitHub Issues you should create for this repository 👇
