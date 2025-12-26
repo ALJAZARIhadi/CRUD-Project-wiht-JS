@@ -1,3 +1,6 @@
+<img width="1187" height="466" alt="Image" src="https://github.com/user-attachments/assets/b6ff4b66-11f1-4ff4-9891-c0473acd2b54" />
+![Image](https://github.com/user-attachments/assets/44e7d3b1-9b1c-43cb-86d0-ca9ec7d2dc4b)
+
 📦 Product Management System (CRUD)
 
 A simple Product Management System built using HTML, CSS, and JavaScript that allows users to manage products with full CRUD operations (Create, Read, Update, Delete).
